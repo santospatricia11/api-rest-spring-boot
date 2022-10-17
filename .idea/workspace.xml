@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5795e322-475a-4a27-a18a-0f54adef049a" name="Changes" comment="inicio">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sacola-api/src/main/java/me/dio/sacola/configuration/SwaggerConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sacola-api/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/sacola-api/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sacola-api/src/main/java/me/dio/sacola/service/impl/SacolaServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/sacola-api/src/main/java/me/dio/sacola/service/impl/SacolaServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sacola-api/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/sacola-api/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sacola-api/src/main/java/me/dio/sacola/SacolaApiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/sacola-api/src/main/java/me/dio/sacola/SacolaApiApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sacola-api/src/main/java/me/dio/sacola/resource/SacolaResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/sacola-api/src/main/java/me/dio/sacola/resource/SacolaResource.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +99,7 @@
       <recent name="C:\Users\Cliente\AppData\Roaming\JetBrains\IdeaIC2022.2\extensions" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.me.dio.sacola.SacolaApiApplication">
     <configuration name="SacolaApiApplication" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="corretto-17" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -116,6 +115,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="me.dio.sacola.SacolaApiApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="me.dio.sacola.SacolaApiApplication" />
+      <module name="sacola-api.sacola-api.main~1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="me.dio.sacola.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.me.dio.sacola.SacolaApiApplication" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
